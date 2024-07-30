@@ -9,7 +9,7 @@ As a Computer Systems Engineering student with a deep enthusiasm for technology 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kulsoomgit" alt="kulsoomgit" /></a> </p>
 
-<img align="right" alt="circuit" width="400" src="https://i.makeagif.com/media/2-02-2023/BboWfJ.gif">
+<img align="right" alt="circuit" width="300" src="https://i.makeagif.com/media/2-02-2023/BboWfJ.gif">
 
 - 🔭 I’m currently working on *Crypto Hardware Accelerator for RISCV SOC*
 
