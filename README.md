@@ -14,7 +14,7 @@ As a Computer Systems Engineering student with a deep enthusiasm for technology 
 - 🔭 I’m currently working on *Crypto Hardware Accelerator for RISCV SOC*
 
 - 🌱 I’m currently learning *VLSI | ASIC Design | FPGAs*
-https://github.com/Kulsoomgit/Kulsoomgit/blob/main/banner/git%20banner.png
+
 - 👯 I’m looking to collaborate on *RISC-V*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kulsoomgit](https://github.com/Kulsoomgit)
